@@ -5,7 +5,7 @@
 - 📫 How to reach me Discord : luisismybro
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Im Nigerian
-
+- Lives in America but can understand french as well
 <!---
 luisIsMyBro/luisIsMyBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
